@@ -10,9 +10,9 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
 ![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/pop_os-guide?style=for-the-badge)
 
-#### A guide on setting up your Pop!_OS Desktop with all the essential Applications, Tools, and Games to make your experience with Pop!_OS great!
+#### Un guide en français sur la mise en place de votre bureau pop! _OS avec toutes les applications, outils et jeux essentiels pour faire votre expérience avec pop!
 
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ Remarque: vous pouvez facilement convertir ce fichier de démarrage en un PDF dans VSCODE [VSCode](https://code.visualstudio.com/) en utilisant cette superbe extension markdown de convertion en PDF [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/145649410-2545498e-dc91-423e-8e2a-266c3f966bc8.png">
