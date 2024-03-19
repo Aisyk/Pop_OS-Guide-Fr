@@ -12,7 +12,7 @@
 
 #### Un guide en français sur la mise en place de votre bureau pop! _OS avec toutes les applications, outils et jeux essentiels pour faire votre expérience avec pop!
 
- Remarque: vous pouvez facilement convertir ce fichier de démarrage en un PDF dans VSCODE [VSCode](https://code.visualstudio.com/) en utilisant cette superbe extension markdown de convertion en PDF [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ Remarque: vous pouvez facilement convertir ce fichier de démarrage en un PDF dans [VSCode](https://code.visualstudio.com/) en utilisant cette superbe extension markdown de convertion en PDF [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/145649410-2545498e-dc91-423e-8e2a-266c3f966bc8.png">
